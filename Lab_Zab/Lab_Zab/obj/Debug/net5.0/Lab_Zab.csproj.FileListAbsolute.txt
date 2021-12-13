@@ -83,3 +83,10 @@ C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Z
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\ref\Lab_Zab.dll
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.pdb
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.genruntimeconfig.cache
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll

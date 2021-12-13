@@ -1,17 +1,87 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VnElite\\source\\repos\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj": {}
+    "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VnElite\\source\\repos\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj": {
+    "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VnElite\\source\\repos\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj",
+        "projectUniqueName": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj",
         "projectName": "Lab_Zab",
-        "projectPath": "C:\\Users\\VnElite\\source\\repos\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj",
+        "projectPath": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Lab_Zab\\Lab_Zab.csproj",
         "packagesPath": "C:\\Users\\VnElite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VnElite\\source\\repos\\Lab_Zab\\Lab_Zab\\obj\\",
+        "outputPath": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Lab_Zab\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VnElite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\VnElite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VnElite\\Documents\\GitHub\\WOTPlab\\Lab_Zab\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +112,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.25.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,9 +129,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

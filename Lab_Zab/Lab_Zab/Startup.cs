@@ -7,6 +7,7 @@ using Services.Email_service;
 using Microsoft.Extensions.Logging;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
+using FluentValidation.AspNetCore;
 
 namespace Lab_Zab
 {
@@ -28,7 +29,8 @@ namespace Lab_Zab
             services.AddLocalization(options => options.ResourcesPath = "Resources");
             services.AddControllersWithViews()
                     .AddDataAnnotationsLocalization()
-                    .AddViewLocalization();
+                    .AddViewLocalization()
+                    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Startup>());
 
             services.Configure<RequestLocalizationOptions>(options =>
             {

@@ -103,3 +103,8 @@ C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\uk-UA
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\Shared\_SelectLanguagePartial.cshtml.g.cs
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\Shared\Components\Topbar\Default.cshtml.g.cs
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\Shared\_TopbarPartial.cshtml.g.cs
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\Contact\ContactUs.cshtml.g.cs

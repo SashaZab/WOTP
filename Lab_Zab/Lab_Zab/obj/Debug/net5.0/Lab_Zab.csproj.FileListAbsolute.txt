@@ -91,3 +91,13 @@ C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Seril
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Sinks.File.dll
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
 C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\File\UploadFile.cshtml.g.cs
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.Resources.Controllers.FileController.en-US.resources
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.Resources.Controllers.FileController.uk-UA.resources
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.Resources.Views.File.UploadFile.en-US.resources
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.Resources.Views.File.UploadFile.uk-UA.resources
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Lab_Zab.csproj.GenerateResource.cache
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\en-US\Lab_Zab.resources.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\bin\Debug\net5.0\uk-UA\Lab_Zab.resources.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\en-US\Lab_Zab.resources.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\uk-UA\Lab_Zab.resources.dll
+C:\Users\VnElite\Documents\GitHub\WOTPlab\Lab_Zab\Lab_Zab\obj\Debug\net5.0\Razor\Views\Shared\_SelectLanguagePartial.cshtml.g.cs
